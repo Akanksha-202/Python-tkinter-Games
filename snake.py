@@ -131,11 +131,13 @@ def  game_over():
     canvas.create_window(300,400,window=reset_button)
 
 def reset():
+    score = 0
+    label.config(text="Score:{}".format(score))
     canvas.delete(ALL)
+
     snake = Snake()
     food = Food()
     next_turn(snake,food)
-    # reset_button.destroy()
     
 
 
