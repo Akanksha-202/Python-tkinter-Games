@@ -1,7 +1,13 @@
-# TicTacToe
-This is a very simple game of Tic Tac Toe made with tkinter library of python.
+# Python tkinter Games
 
-It is made with very simple conditional and loop statements along with functionality of diagoanal win and restarting the match!
+This repository I made to drop in some cool stuff that we can do with the tkinter library! 
+For now, it has 2 classic games:
 
-A very basic game with a very basic code:D
+#Tic Tac Toe
+
+# The Snake Game
+
+Very basic games with a very basic code:D
+
+Just experimenting with different python🐍 libraries:D
 
