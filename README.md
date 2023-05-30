@@ -47,8 +47,8 @@ Feel free to modify these constants to customize the game according to your pref
 Enjoy playing The Snake Game!
 
 ## Output
+![Screenshot](https://github.com/username/repository/raw/branch/path/to/Screenshot%202023-05-25%20122921.png)
 
-![Image Alt Text](Screenshot 2023-05-25 122921.png)
 
 ## Author(s)
 
